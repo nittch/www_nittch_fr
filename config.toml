@@ -4,23 +4,22 @@ title = "nittch"
 
 titleSeparator = "-"
 
-home = [ "HTML", "RSS", "JSON" ]
-
 theme = "hyde-hyde"
+
+
+home = [ "HTML", "RSS", "JSON" ]
 
 [params]
 	author = "Nicolas TANDE"
 	since = 2021
-
-	toc = "hugo"
 
 [params.social]
 	twitter = "nittch"
 	github = "nittch"
 	linkedin = "nicolastande"
 
+
 [[menu.main]]
     name = "Unix"
     weight = 100
-    identifier = "unix"
     url = "/unix/"
