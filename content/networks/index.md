@@ -10,7 +10,7 @@ title: "Mes réseaux"
 # Loisirs numériques
 - Membre de l'[Association Cumulogranite](https://www.cumulogranite.fr) : hébergement de contenus numériques
 - Membre des [Eiders Implacables](https://www.eiders.fr) : simulation aérienne (DCS World) et automobile (AMS 2).
-- Membre des [Exploreurs Imaginaires](https://discord.gg/exploreurs) : une communauté VRChat de voyateurs de mondes. Allons-y !
+- Membre des [Exploreurs Imaginaires](https://discord.gg/exploreurs) : une communauté VRChat de voyageurs de mondes. Allons-y !
 
 # Créations
 - [Github](https://github.com/nittch)
