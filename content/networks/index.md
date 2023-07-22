@@ -8,9 +8,9 @@ title: "Mes réseaux"
 - Développeur C++ : [CV](https://vrac.linkea.org/1IW0vwW0/CV_Nicolas_TANDE.pdf), [LinkedIn](https://linkedin.com/in/nicolastande)
 
 # Loisirs numériques
-- Membre des [Exploreurs imaginaires](https://discord.gg/exploreurs) : une communauté VRChat de voyateurs de mondes. Allons-y !
+- Membre de l'[Association Cumulogranite](https://www.cumulogranite.fr) : hébergement de contenus numériques
 - Membre des [Eiders Implacables](https://www.eiders.fr) : simulation aérienne (DCS World) et automobile (AMS 2).
-- Membre de L'[Association Cumulogranite](https://www.cumulogranite.fr) : hébergement de contenus numériques
+- Membre des [Exploreurs Imaginaires](https://discord.gg/exploreurs) : une communauté VRChat de voyateurs de mondes. Allons-y !
 
 # Créations
 - [Github](https://github.com/nittch)
@@ -25,5 +25,5 @@ title: "Mes réseaux"
 - Mail : nittch at linkea.org
 
 PGP Fingerprint : 241D 5D1E A64C 83E5 3B8F  D34C 5B58 243C BE50 0356
-- Discord : [nittch](https://discordapp.com/users/nittch)
+- [Discord](https://discordapp.com/users/nittch)
 
