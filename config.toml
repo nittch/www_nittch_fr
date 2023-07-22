@@ -1,19 +1,18 @@
 baseURL = "https://www.nittch.fr/"
 languageCode = "fr-fr"
 title = "nittch"
-
 titleSeparator = "-"
 
 theme = "hyde-hyde"
 
 home = [ "HTML", "RSS", "JSON" ]
+enableEmoji = true
 
 [params]
-	author = "Nicolas TANDE"
-	since = 2023
+  author = "Nicolas TANDE"
 
 [params.social]
-	twitter = "nittch"
-	github = "nittch"
-	linkedin = "nicolastande"
+  twitter = "nittch"
+  github = "nittch"
+  linkedin = "nicolastande"
 
