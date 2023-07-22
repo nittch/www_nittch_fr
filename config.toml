@@ -6,20 +6,14 @@ titleSeparator = "-"
 
 theme = "hyde-hyde"
 
-
 home = [ "HTML", "RSS", "JSON" ]
 
 [params]
 	author = "Nicolas TANDE"
-	since = 2021
+	since = 2023
 
 [params.social]
 	twitter = "nittch"
 	github = "nittch"
 	linkedin = "nicolastande"
 
-
-[[menu.main]]
-    name = "Unix"
-    weight = 100
-    url = "/unix/"
