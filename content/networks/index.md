@@ -22,8 +22,9 @@ title: "Mes réseaux"
 - [Senscritique](https://www.senscritique.com/nittch)
 
 # Contactez-moi
+- [Discord](https://discordapp.com/users/nittch)
+- [Twitter](https://twitter.com/nittch)
 - Mail : nittch at linkea.org
 
 PGP Fingerprint : 241D 5D1E A64C 83E5 3B8F  D34C 5B58 243C BE50 0356
-- [Discord](https://discordapp.com/users/nittch)
 
