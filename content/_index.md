@@ -1,7 +1,7 @@
 ---
-title: "Blog de Nittch"
+title: "Nittch's Blog"
 ---
 
 ![](https://vrac.linkea.org/canard.jpg)
 
-Retrouvez moi sur les [réseaux](/networks/)
+I'm active on several [networks](/networks/).

@@ -1,27 +1,28 @@
 ---
-title: "Mes réseaux"
+title: "My networks"
 ---
 
 ![](https://vrac.linkea.org/canard.jpg)
 
-# Professionnels
-- Développeur C++ : [CV](https://vrac.linkea.org/1IW0vwW0/CV_Nicolas_TANDE.pdf), [LinkedIn](https://linkedin.com/in/nicolastande)
+# Professional links
+- C++ Developer: [CV](https://vrac.linkea.org/PJ5AB6t1/CV_Nicolas_TANDE.pdf)
+- [LinkedIn](https://linkedin.com/in/nicolastande)
 
-# Loisirs numériques
-- Membre de l'[Association Cumulogranite](https://www.cumulogranite.fr) : hébergement de contenus numériques
-- Membre des [Eiders Implacables](https://www.eiders.fr) : simulation aérienne (DCS World) et automobile (AMS 2).
-- Membre des [Exploreurs Imaginaires](https://discord.gg/exploreurs) : une communauté VRChat de voyageurs de mondes. Allons-y !
+# Digital hobbies
+- Member of [Association Cumulogranite](https://www.cumulogranite.fr) :fr:: hosting digital content
+- Member of [Eiders Implacables](https://www.eiders.fr) :fr:: aircraft simulation (DCS World) and simracing (AMS 2).
+- Member of [Exploreurs Imaginaires](https://discord.gg/exploreurs) :fr:: VRChat exploration (world hopping) community. Let's go!
 
-# Créations
+# Creations
 - [Github](https://github.com/nittch)
 - [Thingiverse](https://www.thingiverse.com/nittch/designs)
 
-# Ce que j'écoute, je regarde
+# What I listen to, what I watch...
 - [Spotify](https://open.spotify.com/user/nittch)
 - [Last.fm](https://www.last.fm/user/nittch)
-- [Senscritique](https://www.senscritique.com/nittch)
+- [Senscritique](https://www.senscritique.com/nittch) :fr:
 
-# Contactez-moi
+# Contact-me
 - [Discord](https://discordapp.com/users/nittch)
 - [Twitter](https://twitter.com/nittch)
 - Mail : nittch at linkea.org

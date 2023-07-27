@@ -1,12 +1,12 @@
 baseURL = "https://www.nittch.fr/"
 theme = "LoveIt"
 
-defaultContentLanguage = "fr"
-languageCode = "fr"
-languageName = "français"
+defaultContentLanguage = "en"
+languageCode = "en"
+languageName = "english"
 
 title = "www.nittch.fr"
-subtitle = "Blog de nittch"
+subtitle = "Nittch's Blog"
 titleSeparator = "-"
 
 enableRobotsTXT = true
@@ -16,22 +16,22 @@ home = [ "HTML", "RSS", "JSON" ]
 enableEmoji = true
 
 [author]
-  name = "Nicolas TANDE"
+  name = "Nicolas TANDÉ"
   email = "nittch@linkea.org"
 
 [menu]
   [[menu.main]]
     weight = 1
     identifier = "networks"
-    name = "Mes réseaux"
+    name = "My networks"
     url = "/networks/"
 
 [params]
   defaultTheme = "light"
-  gitRepo = "https://github.com/nittch/www_nittch_fr"
+  gitRepo = "https://github.com/nittch/www_nittch_fr/"
   dateFormat = "01/02/2006"
   title = "www.nittch.fr"
-  description = "Blog de nittch"
+  description = "Nittch's Blog"
 
 [params.header.title]
   name = "www.nittch.fr"
