@@ -16,6 +16,8 @@ title: "My networks"
 # Creations
 - [Github](https://github.com/nittch)
 - [Thingiverse](https://www.thingiverse.com/nittch/designs)
+- Instagram: "nittch_wired" when I'm online (AKA: Virtual Reality)
+- Instagram: "nittch_afk" when I'm offline (AKA: Reality/IRL)
 
 # What I listen to, what I watch...
 - [Spotify](https://open.spotify.com/user/nittch)
