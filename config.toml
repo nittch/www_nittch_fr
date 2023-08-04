@@ -16,7 +16,7 @@ home = [ "HTML", "RSS", "JSON" ]
 enableEmoji = true
 
 [author]
-  name = "Nicolas TANDÉ"
+  name = "Nittch"
   email = "nittch@linkea.org"
 
 [menu]
