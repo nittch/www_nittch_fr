@@ -27,7 +27,16 @@ title: "My networks"
 # Contact-me
 - [Discord](https://discordapp.com/users/nittch)
 - [Twitter](https://twitter.com/nittch)
-- Mail : nittch at linkea.org
+- Mail : nicolas.tande at linkea.org
 
-PGP Fingerprint : 241D 5D1E A64C 83E5 3B8F  D34C 5B58 243C BE50 0356
-
+OpenPGP key (published at [keys.openpgp.org](https://keys.openpgp.org/vks/v1/by-fingerprint/9FC4568F08AB50F59C5B8CCE6C586D068943F81F), by WKD or DANE):
+```
+sec   ed25519 2023-08-15 [SC]
+      9FC4 568F 08AB 50F5 9C5B  8CCE 6C58 6D06 8943 F81F
+uid           [ultimate] Nicolas TANDÉ (Nittch) <nicolas.tande at linkea.org>
+uid           [ultimate] Nicolas TANDÉ (Nittch) <nittch at gmail.com>
+uid           [ultimate] Nicolas TANDÉ (Nittch) <nittch at linkea.org>
+uid           [ultimate] Nicolas TANDÉ (Nittch) <nicolas.tande at gmail.com>
+ssb   cv25519 2023-08-15 [E]
+```
+</pre>
