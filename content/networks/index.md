@@ -5,7 +5,7 @@ title: "My networks"
 ![](https://vrac.linkea.org/canard.jpg)
 
 # Professional links
-- C++ Developer: [CV](https://vrac.linkea.org/PJ5AB6t1/CV_Nicolas_TANDE.pdf)
+- C++ Developer: [[CV_Nicolas_TANDE_fr.pdf](/CV_Nicolas_TANDE_fr.pdf)] [[CV_Nicolas_TANDE_en.pdf](/CV_Nicolas_TANDE_en.pdf)]
 - [LinkedIn](https://linkedin.com/in/nicolastande)
 
 # Digital hobbies
