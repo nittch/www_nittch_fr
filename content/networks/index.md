@@ -12,7 +12,7 @@ title: "My networks"
 
 # Digital hobbies
 - Member of [Association Cumulogranite](https://www.cumulogranite.fr) :fr: : hosting digital content.
-- Member of [Eiders Implacables](https://www.eiders.fr) :fr: : aircraft simulation (DCS World) and simracing (AMS 2).
+- Member of [Eiders Implacables](https://www.eiders.fr) :fr: : aircraft simulation (DCS World) and simracing (Automobilista 2).
 - Member of [Exploreurs Imaginaires](https://discord.gg/exploreurs) :fr: : VRChat exploration (world hopping) community. Let's go!
 
 # Creations
