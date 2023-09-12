@@ -1,19 +1,13 @@
 ---
 title: "My networks"
 ---
-<!-- https://robynahudsonpa.com/post/emoji-support/ -->
-<style>
-.emoji {
-  font-family: Apple Color Emoji,Segoe UI Emoji,NotoColorEmoji,Segoe UI Symbol,Android Emoji,EmojiSymbols;
-}
-</style>
 
 ![](https://vrac.linkea.org/canard.jpg)
 
 # Professional links
 - Senior Software Developer / C++ Expert / Agility
-  - :fr: [CV_Nicolas_TANDE_fr.pdf](/CV_Nicolas_TANDE_fr.pdf)
-  - :gb: [CV_Nicolas_TANDE_en.pdf](/CV_Nicolas_TANDE_en.pdf)
+  - [CV_Nicolas_TANDE_en.pdf](/CV_Nicolas_TANDE_en.pdf)
+  - [CV_Nicolas_TANDE_fr.pdf](/CV_Nicolas_TANDE_fr.pdf) :fr:
 - [LinkedIn](https://linkedin.com/in/nicolastande)
 
 # Digital hobbies
