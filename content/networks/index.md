@@ -5,13 +5,15 @@ title: "My networks"
 ![](https://vrac.linkea.org/canard.jpg)
 
 # Professional links
-- C++ Developer: [[CV_Nicolas_TANDE_fr.pdf](/CV_Nicolas_TANDE_fr.pdf)] [[CV_Nicolas_TANDE_en.pdf](/CV_Nicolas_TANDE_en.pdf)]
+- Senior Software Developer / C++ Expert / Agility
+  - :fr: [CV_Nicolas_TANDE_fr.pdf](/CV_Nicolas_TANDE_fr.pdf)
+  - :gb: [CV_Nicolas_TANDE_en.pdf](/CV_Nicolas_TANDE_en.pdf)
 - [LinkedIn](https://linkedin.com/in/nicolastande)
 
 # Digital hobbies
-- Member of [Association Cumulogranite](https://www.cumulogranite.fr) :fr:: hosting digital content.
-- Member of [Eiders Implacables](https://www.eiders.fr) :fr:: aircraft simulation (DCS World) and simracing (AMS 2).
-- Member of [Exploreurs Imaginaires](https://discord.gg/exploreurs) :fr:: VRChat exploration (world hopping) community. Let's go!
+- Member of [Association Cumulogranite](https://www.cumulogranite.fr) :fr: : hosting digital content.
+- Member of [Eiders Implacables](https://www.eiders.fr) :fr: : aircraft simulation (DCS World) and simracing (AMS 2).
+- Member of [Exploreurs Imaginaires](https://discord.gg/exploreurs) :fr: : VRChat exploration (world hopping) community. Let's go!
 
 # Creations
 - [Github](https://github.com/nittch)
