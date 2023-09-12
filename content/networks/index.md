@@ -1,6 +1,12 @@
 ---
 title: "My networks"
 ---
+<!-- https://robynahudsonpa.com/post/emoji-support/ -->
+<style>
+.emoji {
+  font-family: Apple Color Emoji,Segoe UI Emoji,NotoColorEmoji,Segoe UI Symbol,Android Emoji,EmojiSymbols;
+}
+</style>
 
 ![](https://vrac.linkea.org/canard.jpg)
 
