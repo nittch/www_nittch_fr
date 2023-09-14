@@ -15,7 +15,7 @@ title: "My networks"
 - Instagram: [nittch_wired](https://www.instagram.com/nittch_wired/) when I'm online (AKA: Virtual Reality)
 - Instagram: [nittch_afk](https://www.instagram.com/nittch_afk/) when I'm offline (AKA: Reality/IRL)
 
-_If you like my work, any support via [Ko-fi](https://ko-fi.com/nittch) or [Paypal](https://www.paypal.com/paypalme/nittch) is greatly appreciated. :smiling_face_with_hearts:_
+_If you like my work, any support via [Ko-fi](https://ko-fi.com/nittch) or [Paypal](https://www.paypal.com/paypalme/nittch) is greatly appreciated._ :smiling_face_with_hearts:
 
 # Digital hobbies
 - Member of Association Cumulogranite :fr:: hosting digital content.\
