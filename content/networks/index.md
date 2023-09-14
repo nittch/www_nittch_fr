@@ -5,30 +5,35 @@ title: "My networks"
 ![](https://vrac.linkea.org/canard.jpg)
 
 # Professional links
-- Senior Software Developer / C++ Expert / Agility
-  - [CV_Nicolas_TANDE_en.pdf](/CV_Nicolas_TANDE_en.pdf)
-  - [CV_Nicolas_TANDE_fr.pdf](/CV_Nicolas_TANDE_fr.pdf) :fr:
-- [LinkedIn](https://linkedin.com/in/nicolastande)
+- Senior Software Developer / C++ Expert / Agility\
+  [CV_Nicolas_TANDE_en.pdf](/CV_Nicolas_TANDE_en.pdf) -- [CV_Nicolas_TANDE_fr.pdf](/CV_Nicolas_TANDE_fr.pdf) :fr: -- [LinkedIn](https://linkedin.com/in/nicolastande)
 
-# Digital hobbies
-- Member of [Association Cumulogranite](https://www.cumulogranite.fr) :fr: : hosting digital content.
-- Member of [Eiders Implacables](https://www.eiders.fr) :fr: : aircraft simulation (DCS World) and simracing (Automobilista 2).
-- Member of [Exploreurs Imaginaires](https://discord.gg/exploreurs) :fr: : VRChat exploration (world hopping) community. Let's go!
-
-# Creations
+# Creations / content creations
+- [Articles](/posts) in this blog
 - [Github](https://github.com/nittch)
 - [Thingiverse](https://www.thingiverse.com/nittch/designs)
 - Instagram: [nittch_wired](https://www.instagram.com/nittch_wired/) when I'm online (AKA: Virtual Reality)
 - Instagram: [nittch_afk](https://www.instagram.com/nittch_afk/) when I'm offline (AKA: Reality/IRL)
 
-# What I listen to, what I watch...
+_If you like my work, any support via [Ko-fi](https://ko-fi.com/nittch) or [Paypal](https://www.paypal.com/paypalme/nittch) is greatly appreciated. :smiling_face_with_hearts:_
+
+# Digital hobbies
+- Member of Association Cumulogranite :fr:: hosting digital content.\
+  [Site](https://www.cumulogranite.fr)
+- Member of Eiders Implacables :fr:: aircraft simulation (DCS World) and simracing (Automobilista 2).\
+  [Site](https://www.eiders.fr) -- [Youtube](https://www.youtube.com/@eiders_fr)
+- Member of Exploreurs Imaginaires :fr:: VRChat exploration (world hopping) community. Let's go!\
+  [Discord](https://discord.gg/exploreurs) -- [Youtube](https://www.youtube.com/@exploreursimaginaires)
+
+# Sharing what I like (music, series...)
 - [Spotify](https://open.spotify.com/user/nittch)
 - [Last.fm](https://www.last.fm/user/nittch)
 - [Senscritique](https://www.senscritique.com/nittch) :fr:
 
-# Contact-me
+# Social networks
 - [Discord](https://discordapp.com/users/nittch)
-- [Twitter](https://twitter.com/nittch)
+- [VRChat](https://vrchat.com/home/user/usr_5423f546-0f5a-4539-b284-6b43958666e8)
+- [X (Twitter)](https://twitter.com/nittch)
 - Mail : nicolas.tande at linkea.org
 
 OpenPGP key (published at [keys.openpgp.org](https://keys.openpgp.org/vks/v1/by-fingerprint/9FC4568F08AB50F59C5B8CCE6C586D068943F81F), by WKD or DANE):
@@ -41,4 +46,3 @@ uid           [ultimate] Nicolas TANDÉ (Nittch) <nittch at linkea.org>
 uid           [ultimate] Nicolas TANDÉ (Nittch) <nicolas.tande at gmail.com>
 ssb   cv25519 2023-08-15 [E]
 ```
-</pre>
