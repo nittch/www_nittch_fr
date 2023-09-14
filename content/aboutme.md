@@ -1,12 +1,12 @@
 ---
-title: "My networks"
+title: "About me"
 ---
 
 ![](https://vrac.linkea.org/canard.jpg)
 
 # Professional links
 - Senior Software Developer / C++ Expert / Agility\
-  [CV_Nicolas_TANDE_en.pdf](/CV_Nicolas_TANDE_en.pdf) -- [CV_Nicolas_TANDE_fr.pdf](/CV_Nicolas_TANDE_fr.pdf) :fr: -- [LinkedIn](https://linkedin.com/in/nicolastande)
+  [CV](/CV_Nicolas_TANDE_en.pdf) -- [CV (French)](/CV_Nicolas_TANDE_fr.pdf) -- [LinkedIn](https://linkedin.com/in/nicolastande)
 
 # Creations / content creations
 - [Articles](/posts) in this blog

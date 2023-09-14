@@ -34,9 +34,9 @@ enableEmoji = true
 
   [[menu.main]]
     weight = 3
-    identifier = "networks"
-    name = "My networks"
-    url = "/networks/"
+    identifier = "aboutme"
+    name = "About me"
+    url = "/aboutme"
 
 
 [params]
