@@ -18,17 +18,18 @@ title: "About me"
 _If you like my work, any support via [Ko-fi](https://ko-fi.com/nittch) or [Paypal](https://www.paypal.com/paypalme/nittch) is greatly appreciated._ :smiling_face_with_hearts:
 
 # Digital hobbies
-- Member of Association Cumulogranite :fr:: hosting digital content.\
+- Member of Association Cumulogranite: hosting digital content.\
   [Site](https://www.cumulogranite.fr)
-- Member of Eiders Implacables :fr:: aircraft simulation (DCS World) and simracing (Automobilista 2).\
+- Member of Eiders Implacables: aircraft simulation (DCS World) and simracing (Automobilista 2).\
   [Site](https://www.eiders.fr) -- [Youtube](https://www.youtube.com/@eiders_fr)
-- Member of Exploreurs Imaginaires :fr:: VRChat exploration (world hopping) community. Let's go!\
+- Member of Exploreurs Imaginaires: VRChat exploration (world hopping) community. Let's go!\
   [Discord](https://discord.gg/exploreurs) -- [Youtube](https://www.youtube.com/@exploreursimaginaires)
 
-# Sharing what I like (music, series...)
+# Sharing what I like (contents, music, series...)
+- [Youtube](https://www.youtube.com/@nittch)
 - [Spotify](https://open.spotify.com/user/nittch)
 - [Last.fm](https://www.last.fm/user/nittch)
-- [Senscritique](https://www.senscritique.com/nittch) :fr:
+- [Senscritique](https://www.senscritique.com/nittch)
 
 # Social networks
 - [Discord](https://discordapp.com/users/nittch)
