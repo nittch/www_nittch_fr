@@ -20,9 +20,9 @@ _If you like my work, any support via [Ko-fi](https://ko-fi.com/nittch) or [Payp
 # Digital hobbies
 - Member of Association Cumulogranite: hosting digital content.\
   [Site](https://www.cumulogranite.fr)
-- Member of Eiders Implacables: aircraft simulation (DCS World) and simracing (Automobilista 2).\
+- Member of Eiders Implacables: flight simulation and simracing.\
   [Site](https://www.eiders.fr) -- [Youtube](https://www.youtube.com/@eiders_fr)
-- Member of Exploreurs Imaginaires: VRChat exploration (world hopping) community. Let's go!\
+- Member of Exploreurs Imaginaires: VRChat exploration community. Allons-y !\
   [Discord](https://discord.gg/exploreurs) -- [Youtube](https://www.youtube.com/@exploreursimaginaires)
 
 # Sharing what I like (contents, music, series...)
