@@ -5,8 +5,8 @@ defaultContentLanguage = "en"
 languageCode = "en-us"
 languageName = "english"
 
-title = "www.nittch.fr"
-subtitle = "Nittch's Blog"
+title = "Nittch's projects"
+subtitle = "Blog about my hobbies and personnal projects"
 titleSeparator = "-"
 
 enableRobotsTXT = true
@@ -42,23 +42,24 @@ enableEmoji = true
 [params]
   gitRepo = "https://github.com/nittch/www_nittch_fr"
   dateFormat = "01/02/2006"
-  title = "www.nittch.fr"
-  description = "Nittch's Blog"
+  title = "Nittch's projects"
+  description = "Blog about my hobbies and personnal projects"
 
 [params.header.title]
-  name = "www.nittch.fr"
+  name = "Nittch's projects"
 
 [params.home.profile]
-  title = "Nittch"
-  subtitle = "Nicolas TANDÉ"
+  gravatarEmail = "nittch@linkea.org"
+  title = "Nittch<br />Nicolas TANDÉ"
+  subtitle = "<p>Virtual Reality, Flight Simulation, Simracing<br />C++ Development, Operating Systems, Sysadmin, Network<br />...And <u><a href=/categories>more</a></u></p><p>Cumulogranite.fr, Eiders.fr, Exploreurs Imaginaires</p>More details on <u><a href=/aboutme>About me</a></u> page (contains professional links)"
+  disclaimer = "Follow me by <u><a href=https://www.nittch.fr/index.xml target=_blank>RSS</a></u>"
   typeit = false
 
 [params.social]
   linkedin = "nicolastande"
   github = "nittch"
   thingiverse = "nittch"
-  spotify = "nittch"
-  lastfm = "nittch"
+  instagram = "nittch_wired"
   discord = "nittch"
   email = "nittch@linkea.org"
   twitter = "nittch"
