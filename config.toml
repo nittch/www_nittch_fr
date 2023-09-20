@@ -41,7 +41,7 @@ enableEmoji = true
 
 [params]
   gitRepo = "https://github.com/nittch/www_nittch_fr"
-  dateFormat = "01/02/2006"
+  dateFormat = "2006-01-02"
   title = "Nittch's projects"
   description = "Blog about my hobbies and personnal projects"
 
