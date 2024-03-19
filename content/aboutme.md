@@ -14,6 +14,7 @@ title: "About me"
 - [Thingiverse](https://www.thingiverse.com/nittch/designs)
 - Instagram: [nittch_wired](https://www.instagram.com/nittch_wired/) when I'm online (AKA: Virtual Reality)
 - Instagram: [nittch_afk](https://www.instagram.com/nittch_afk/) when I'm offline (AKA: Reality/IRL)
+- [Youtube](https://www.youtube.com/@nittch)
 
 _If you like my work, any support via [Ko-fi](https://ko-fi.com/nittch) or [Paypal](https://www.paypal.com/paypalme/nittch) is greatly appreciated._ :smiling_face_with_hearts:
 
@@ -24,12 +25,6 @@ _If you like my work, any support via [Ko-fi](https://ko-fi.com/nittch) or [Payp
   [Site](https://www.eiders.fr) -- [Youtube](https://www.youtube.com/@eiders_fr)
 - Member of Exploreurs Imaginaires: VRChat exploration community. Allons-y !\
   [Discord](https://discord.gg/exploreurs) -- [Youtube](https://www.youtube.com/@exploreursimaginaires)
-
-# Sharing what I like (contents, music, series...)
-- [Youtube](https://www.youtube.com/@nittch)
-- [Spotify](https://open.spotify.com/user/nittch)
-- [Last.fm](https://www.last.fm/user/nittch)
-- [Senscritique](https://www.senscritique.com/nittch)
 
 # Social networks
 - [Discord](https://discordapp.com/users/nittch)
