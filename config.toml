@@ -55,7 +55,7 @@ enableEmoji = true
 [params.home.profile]
   gravatarEmail = "nittch@linkea.org"
   title = "Nittch<br />Nicolas TANDÉ"
-  subtitle = "<p>Virtual Reality, Flight Simulation, Simracing<br />C++ Development, Operating Systems, Sysadmin, Network<br />...And <u><a href=/categories>more</a></u></p><p>Cumulogranite.fr, Eiders.fr, Exploreurs Imaginaires</p>More details on <u><a href=/aboutme>About me</a></u> page (contains professional links)"
+  subtitle = "<p>Virtual Reality: World Hopping, Photography<br />Flight Simulation<br />Senior Software Developer: C++ Expert, Agility</p>More details on <u><a href=/aboutme>About me</a></u> page (contains professional links)"
   disclaimer = "Follow me: <u><a href=https://www.nittch.fr/index.xml target=_blank>RSS</a></u> / <u><a href=https://twitter.com/nittch target=_blank>X(Twitter)</a></u><br />Support me on <u><a href=https://ko-fi.com/nittch target=_blank>Ko-fi</a></u>"
   typeit = false
 
