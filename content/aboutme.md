@@ -8,26 +8,27 @@ title: "About me"
 - Senior Software Developer: C++ Expert, Agility\
   [CV](/CV_Nicolas_TANDE_en.pdf) -- [CV (French)](/CV_Nicolas_TANDE_fr.pdf) -- [LinkedIn](https://linkedin.com/in/nicolastande)
 
+# Follow me on social networks
+- [X (Twitter)](https://twitter.com/nittch)
+- [Bluesky](https://bsky.app/profile/nittch.bsky.social)
+
+# Digital hobbies
+- Staff at Exploreurs Imaginaires: VRChat exploration community.\
+  We visit the best worlds and communities in Virtual Reality.\
+  [Discord](https://discord.gg/exploreurs) -- [Youtube](https://www.youtube.com/@exploreursimaginaires)
+- Staff at Eiders Implacables: flight simulation and simracing.\
+  We maintain a website with learning content.\
+  [Site](https://www.eiders.fr) -- [Youtube](https://www.youtube.com/@eiders_fr)
+- Staff at Association Cumulogranite: hosting digital content.
+
 # Creations / content creations
-- Instagram: [nittch_wired](https://www.instagram.com/nittch_wired/) when I'm online (AKA: Virtual Reality)
-- Instagram: [nittch_afk](https://www.instagram.com/nittch_afk/) when I'm offline (AKA: Reality/IRL)
-- [Youtube](https://www.youtube.com/@nittch)
-- [Articles](/posts) in this blog
+- [Instagram](https://www.instagram.com/nittch_wired/): my pictures in Virtual Reality.
+- [Thingiverse](https://www.thingiverse.com/nittch/designs): 3D Printing
 - [Github](https://github.com/nittch)
-- [Thingiverse](https://www.thingiverse.com/nittch/designs)
 
 _If you like my work, any support via [Ko-fi](https://ko-fi.com/nittch) or [Paypal](https://www.paypal.com/paypalme/nittch) is greatly appreciated._ :smiling_face_with_hearts:
 
-# Digital hobbies
-- Staff at Association Cumulogranite: hosting digital content.\
-  [Site](https://www.cumulogranite.fr)
-- Staff at Eiders Implacables: flight simulation and simracing.\
-  [Site](https://www.eiders.fr) -- [Youtube](https://www.youtube.com/@eiders_fr)
-- Staff at Exploreurs Imaginaires: VRChat exploration community. Allons-y !\
-  [Discord](https://discord.gg/exploreurs) -- [Youtube](https://www.youtube.com/@exploreursimaginaires)
-
-# Social networks
-- [X (Twitter)](https://twitter.com/nittch)
+# Contact
 - [Discord](https://discordapp.com/users/nittch)
 - [VRChat](https://vrchat.com/home/user/usr_5423f546-0f5a-4539-b284-6b43958666e8)
 - Mail : nicolas.tande at linkea.org
