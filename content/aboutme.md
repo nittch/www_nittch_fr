@@ -2,7 +2,7 @@
 title: "About me"
 ---
 
-![](https://vrac.linkea.org/canard.jpg)
+![](https://vrac.linkea.org/zDlJD5S1/Yeux-emission-reveal.png)
 
 # Professional links
 - Senior Software Developer: C++ Expert, Agility\
